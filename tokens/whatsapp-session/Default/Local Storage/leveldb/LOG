@@ -1,0 +1,14 @@
+2025/04/15-08:20:14.755 5554 Reusing MANIFEST C:\xampp\htdocs\bootWhatsapp_Haray\tokens\whatsapp-session\Default\Local Storage\leveldb/MANIFEST-000001
+2025/04/15-08:20:14.776 5554 Recovering log #14
+2025/04/15-08:20:14.783 5554 Reusing old log C:\xampp\htdocs\bootWhatsapp_Haray\tokens\whatsapp-session\Default\Local Storage\leveldb/000014.log 
+2025/04/15-12:55:48.754 5554 Level-0 table #18: started
+2025/04/15-12:55:48.763 5554 Level-0 table #18: 14800 bytes OK
+2025/04/15-12:55:48.767 5554 Compacting 4@0 + 1@1 files
+2025/04/15-12:55:48.778 5554 Generated table #19@0: 115 keys, 9365 bytes
+2025/04/15-12:55:48.778 5554 Compacted 4@0 + 1@1 files => 9365 bytes
+2025/04/15-12:55:48.779 5554 compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/04/15-12:55:48.780 5554 Delete type=2 #8
+2025/04/15-12:55:48.781 5554 Delete type=2 #10
+2025/04/15-12:55:48.781 5554 Delete type=2 #12
+2025/04/15-12:55:48.781 5554 Delete type=2 #15
+2025/04/15-12:55:48.781 5554 Delete type=2 #18
